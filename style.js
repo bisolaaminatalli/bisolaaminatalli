@@ -8,6 +8,7 @@ h1.appendChild(textAnswer)
 h1.setAttribute("id","ageinDays")
 document.getElementById("flex-box-result").appendChild(h1)
 }
+
 function reset(){
     document.getElementById('ageinDays').remove();
 }

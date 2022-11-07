@@ -1,5 +1,8 @@
 .container-1{
     border: 1px solid blue;
+    width:75%;
+    margin:0 auto;
+    text-align: center;
 }
 .flex-box-container1{
     display: flex;
@@ -11,4 +14,15 @@
 padding: 10px;
 border: 1px solid black;
 align-items: center;
+}
+.container2{
+    border: 1px solid red;
+    width: 75%;
+    margin:0 auto;
+    text-align: center;
+}
+.flex-box-container2{
+    display: flex;
+    flex-wrap: wrap;
+   border: 1px solid blue; 
 }
